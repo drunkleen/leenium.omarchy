@@ -34,7 +34,7 @@ A dark, teal-accented theme for [Omarchy](https://github.com/basecamp/omarchy). 
 | `chromium.theme` | Chromium / Chrome NTP accent |
 | `waybar.css` | Waybar status bar color variables |
 | `swayosd.css` | SwayOSD on-screen display (volume, brightness) |
-| `neovim.lua` | Neovim via [leenium.nvim](https://github.com/leenium/leenium.nvim) |
+| `neovim.lua` | Neovim via [leenium.nvim](https://github.com/drunkleen/leenium.nvim) |
 | `vscode.json` | VS Code color customizations |
 | `icons.theme` | Icon pack (`Yaru-olive`) |
 | `backgrounds/` | 6 wallpapers |
@@ -53,13 +53,13 @@ A dark, teal-accented theme for [Omarchy](https://github.com/basecamp/omarchy). 
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/leenium/leenium.omarchy
+omarchy theme install https://github.com/drunkleen/leenium.omarchy
 ```
 
 Or manually clone into your Omarchy themes directory:
 
 ```bash
-git clone https://github.com/leenium/leenium.omarchy \
+git clone https://github.com/drunkleen/leenium.omarchy \
   ~/.local/share/omarchy/themes/leenium
 omarchy theme apply leenium
 ```
