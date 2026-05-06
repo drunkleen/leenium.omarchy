@@ -1,6 +1,6 @@
 return {
   {
-    "leenium/leenium.nvim",
+    "drunkleen/leenium.nvim",
     name = "leenium",
     priority = 1000,
   },
