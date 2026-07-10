@@ -1,9 +1,9 @@
-@define-color background-color #0b1319;
-@define-color border-color #1d313d;
-@define-color label #d8f7ea;
-@define-color image #d8f7ea;
-@define-color progress #35d6a0;
-@define-color edge-light #94f1cd;
+@define-color background-color #11191c;
+@define-color border-color #223033;
+@define-color label #d8e3e0;
+@define-color image #d8e3e0;
+@define-color progress #33b8a8;
+@define-color edge-light #59d6c5;
 
 /* Cancel out Leenium defaults */
 window:not(:backdrop),
@@ -35,10 +35,10 @@ progressbar {
 
 progressbar trough {
     background: alpha(@border-color, 0.24);
-    box-shadow: inset 0 1px rgba(216, 247, 234, 0.03);
+    box-shadow: inset 0 1px rgba(216, 227, 224, 0.03);
 }
 
 progressbar progress {
     background: linear-gradient(90deg, @progress, @edge-light);
-    box-shadow: 0 0 10px rgba(53, 214, 160, 0.18);
+    box-shadow: 0 0 10px rgba(51, 184, 168, 0.18);
 }

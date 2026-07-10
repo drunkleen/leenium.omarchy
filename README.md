@@ -1,6 +1,8 @@
 # Leenium
 
-A dark, teal-accented theme for [Omarchy](https://github.com/basecamp/omarchy). Deep abyss backgrounds with glowing mint highlights and a retro pixel aesthetic.
+A dark, shared-palette theme for [Omarchy](https://github.com/basecamp/omarchy). Deep slate backgrounds with cyan, teal, emerald, and blue accents.
+
+Hosted under `github.com/drunkleen/leenium.omarchy`.
 
 ![Preview](preview.png)
 
@@ -10,18 +12,35 @@ A dark, teal-accented theme for [Omarchy](https://github.com/basecamp/omarchy). 
 
 ## Color Palette
 
+### Primary
+
 | Role | Hex | |
 |---|---|---|
-| Background | `#060b0f` | ![](https://placehold.co/16x16/060b0f/060b0f.png) |
-| Surface | `#0b1319` | ![](https://placehold.co/16x16/0b1319/0b1319.png) |
-| Overlay | `#1d313d` | ![](https://placehold.co/16x16/1d313d/1d313d.png) |
-| Muted | `#8cb7a9` | ![](https://placehold.co/16x16/8cb7a9/8cb7a9.png) |
-| Foreground | `#d8f7ea` | ![](https://placehold.co/16x16/d8f7ea/d8f7ea.png) |
-| Accent (Teal) | `#35d6a0` | ![](https://placehold.co/16x16/35d6a0/35d6a0.png) |
-| Cyan | `#94f1cd` | ![](https://placehold.co/16x16/94f1cd/94f1cd.png) |
-| Blue | `#376781` | ![](https://placehold.co/16x16/376781/376781.png) |
-| Yellow | `#ffd479` | ![](https://placehold.co/16x16/ffd479/ffd479.png) |
-| Red | `#ff5f56` | ![](https://placehold.co/16x16/ff5f56/ff5f56.png) |
+| Background | `#0b1113` | ![](https://placehold.co/16x16/0b1113/0b1113.png) |
+| Surface | `#11191c` | ![](https://placehold.co/16x16/11191c/11191c.png) |
+| Overlay | `#182326` | ![](https://placehold.co/16x16/182326/182326.png) |
+| Muted | `#718688` | ![](https://placehold.co/16x16/718688/718688.png) |
+| Foreground | `#d8e3e0` | ![](https://placehold.co/16x16/d8e3e0/d8e3e0.png) |
+| Accent (Teal) | `#33b8a8` | ![](https://placehold.co/16x16/33b8a8/33b8a8.png) |
+| Cyan | `#59d6c5` | ![](https://placehold.co/16x16/59d6c5/59d6c5.png) |
+| Blue | `#5e9bff` | ![](https://placehold.co/16x16/5e9bff/5e9bff.png) |
+| Yellow | `#d9c76b` | ![](https://placehold.co/16x16/d9c76b/d9c76b.png) |
+| Red | `#e16f73` | ![](https://placehold.co/16x16/e16f73/e16f73.png) |
+
+### Secondary
+
+| Role | Hex | |
+|---|---|---|
+| Void | `#020405` | ![](https://placehold.co/16x16/020405/020405.png) |
+| Ink | `#0e1518` | ![](https://placehold.co/16x16/0e1518/0e1518.png) |
+| Shell | `#141e21` | ![](https://placehold.co/16x16/141e21/141e21.png) |
+| Line | `#223033` | ![](https://placehold.co/16x16/223033/223033.png) |
+| Fog | `#a4b4b2` | ![](https://placehold.co/16x16/a4b4b2/a4b4b2.png) |
+| Mint Glow | `#4dba7a` | ![](https://placehold.co/16x16/4dba7a/4dba7a.png) |
+| Mint Mist | `#5ccbbb` | ![](https://placehold.co/16x16/5ccbbb/5ccbbb.png) |
+| Aqua | `#71e4d8` | ![](https://placehold.co/16x16/71e4d8/71e4d8.png) |
+| Amber | `#d9c76b` | ![](https://placehold.co/16x16/d9c76b/d9c76b.png) |
+| Coral | `#e16f73` | ![](https://placehold.co/16x16/e16f73/e16f73.png) |
 
 ---
 
