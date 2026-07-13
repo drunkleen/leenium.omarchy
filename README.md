@@ -1,14 +1,15 @@
-# Leenium
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/drunkleen/leenium.webpage/refs/heads/master/assets/LEENIUM.png" width="250" alt="Leenium logo" />
 
 A dark, shared-palette theme for [Omarchy](https://github.com/basecamp/omarchy). Deep slate backgrounds with cyan, teal, emerald, and blue accents.
 
 Hosted under `github.com/drunkleen/leenium.omarchy`.
 
-![Preview](preview.png)
+<img src="./preview.png" width="49%" alt="Leenium OpenCode preview" />
+<img src="./preview-unlock.png" width="49%" alt="Leenium OpenCode preview" />
 
-![Lock screen](preview-unlock.png)
-
----
+</div>
 
 ## Color Palette
 
@@ -105,3 +106,6 @@ Visit [github.com/drunkleen](https://github.com/drunkleen) or [leenium.drunkleen
 ## License
 
 MIT © [Leenium](LICENSE)
+
+
+<img src="https://raw.githubusercontent.com/drunkleen/leenium.webpage/refs/heads/master/assets/footer.png" width="100%" alt="Leenium footer" />
