@@ -90,10 +90,10 @@ omarchy theme apply leenium
 Leenium is a unified dark desktop environment built around the same color palette. Alongside this Waybar theme, the project ships matching configs for:
 
 - [**Firefox**](github.com/drunkleen/leenium.firefox) - browser theme extension
-- [**Hyprlock**](github.com/drunkleen/leenium.hyprlock) - browser theme extension
-- [**Limine**](github.com/drunkleen/leenium.limine) - browser theme extension
+- [**Ghidra**](github.com/drunkleen/leenium.ghidra) - reverse engineering framework theme
+- [**Hyprlock**](github.com/drunkleen/leenium.hyprlock) - hyprland lockscreen
+- [**Limine**](github.com/drunkleen/leenium.limine) - BootLoader
 - [**Neovim**](github.com/drunkleen/leenium.nvim) - syntax highlights and UI elements
-- [**Omarchy**](github.com/drunkleen/leenium.omarchy) - desktop theme bundle
 - [**OpenCode**](github.com/drunkleen/leenium.opencode) - terminal-first theme
 - [**VS Code**](github.com/drunkleen/leenium.vscode) - editor theme and UI palette
 - [**Waybar**](github.com/drunkleen/leenium.waybar) - editor theme and UI palette
