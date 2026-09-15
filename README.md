@@ -52,21 +52,23 @@ Hosted under `github.com/drunkleen/leenium.omarchy`.
 | `colors.toml` | Omarchy color definitions (terminal, UI) |
 | `btop.theme` | btop system monitor |
 | `chromium.theme` | Chromium / Chrome NTP accent |
-| `waybar.css` | Waybar status bar color variables |
-| `swayosd.css` | SwayOSD on-screen display (volume, brightness) |
 | `neovim.lua` | Neovim via [leenium.nvim](https://github.com/drunkleen/leenium.nvim) |
 | `vscode.json` | VS Code color customizations |
 | `icons.theme` | Icon pack (`Yaru-olive`) |
-| `backgrounds/` | 6 wallpapers |
+| `backgrounds/` | 10 wallpapers |
 
 ### Backgrounds
 
-- `leenium.png` — abstract dark signature wallpaper
-- `artificial-valley.jpg` — misty mountain valley
+- `02-crowned.png` — digital-art crown
+- `2-night-hawks.png` — night-hawks painting
 - `creation.png` — artistic generative
+- `dark-waters.png` — moody waterscape
 - `dresden.png` — Dresden cityscape
-- `london.png` — London cityscape
+- `dusk-guardian.png` — dusk statue
+- `in-the-groove.png` — in-the-groove art
+- `omarchy.png` — Omarchy brand wallpaper
 - `rasht.png` — Rasht cityscape
+- `zen-boat.png` — zen lake boat
 
 ---
 
@@ -80,15 +82,15 @@ Or manually clone into your Omarchy themes directory:
 
 ```bash
 git clone https://github.com/drunkleen/leenium.omarchy \
-  ~/.local/share/omarchy/themes/leenium
-omarchy theme apply leenium
+  ~/.config/omarchy/themes/leenium.omarchy
+omarchy theme set leenium.omarchy
 ```
 
 ---
 
 ## The Leenium Ecosystem
 
-Leenium is a unified dark desktop environment built around the same color palette. Alongside this Waybar theme, the project ships matching configs for:
+Leenium is a unified dark desktop environment built around the same color palette. Alongside this Omarchy theme, the project ships matching configs for:
 
 - [**Firefox**](github.com/drunkleen/leenium.firefox) - browser theme extension
 - [**Ghidra**](github.com/drunkleen/leenium.ghidra) - reverse engineering framework theme
